@@ -1,0 +1,7 @@
+# ninja log v6
+6	1234	8120691563048089	CMakeFiles/untitled2.dir/main.cpp.obj	257d2c1f8dfdb092
+5	131	8120693901828692	untitled2.exe	e6569c2c0c61c085
+5	56	8120686341052843	CMakeFiles/untitled2.dir/main2.cpp.obj	43b4f087f121f219
+5	1346	8120688505971314	CMakeFiles/untitled2.dir/main3.cpp.obj	6b89e80ea720395b
+2	342	8121526207928123	build.ninja	4b656d9619cb1bd9
+2	342	8121526207884601	C:/Users/7750/CLionProjects/untitled2/cmake-build-debug/cmake_install.cmake	4b656d9619cb1bd9
